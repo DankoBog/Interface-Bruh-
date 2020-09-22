@@ -1,0 +1,7 @@
+C:\Users\Elev\source\repos\Interface (Bruh)\Interface (Bruh)\obj\Debug\Interface (Bruh).csprojAssemblyReference.cache
+C:\Users\Elev\source\repos\Interface (Bruh)\Interface (Bruh)\obj\Debug\Interface (Bruh).csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\Interface (Bruh)\Interface (Bruh)\bin\Debug\Interface (Bruh).exe.config
+C:\Users\Elev\source\repos\Interface (Bruh)\Interface (Bruh)\bin\Debug\Interface (Bruh).exe
+C:\Users\Elev\source\repos\Interface (Bruh)\Interface (Bruh)\bin\Debug\Interface (Bruh).pdb
+C:\Users\Elev\source\repos\Interface (Bruh)\Interface (Bruh)\obj\Debug\Interface (Bruh).exe
+C:\Users\Elev\source\repos\Interface (Bruh)\Interface (Bruh)\obj\Debug\Interface (Bruh).pdb
